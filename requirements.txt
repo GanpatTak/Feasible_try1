@@ -1,0 +1,10 @@
+Flask
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+pylab
+statsmodels
+scipy
+joblib
